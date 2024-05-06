@@ -1,5 +1,5 @@
 # Mom-Bot
-Are you looking for a funny, entertaining and easy to host bot? Well you found them. Mom bot is one of the best interactive bots for Discord developed by one developer. Me and made Discord JS version 11.4.2 Just follow the instructions provided underneath!
+Are you looking for a funny, entertaining, and easy to host bot? Well you found them. Mom bot is one of the best interactive bots for Discord. Dveloped by one developer. made in Discord JS version 11.4.2 Just follow the instructions provided underneath!
 
 # Getting Started!
 
