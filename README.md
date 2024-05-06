@@ -18,6 +18,6 @@ And follow the steps to make a bot.
 * https://github.com/Eniti-Codes
 
 # Additional Notes
-* You'll need the "Manage Server" permission to add Daniel Dad to your Discord server.
+* You'll need the "Manage Server" permission to add Mom-Bot to your Discord server.
 For more information on creating Discord bots, refer to the official Discord.js documentation: https://discordjs.guide/
 * Feel free to contribute!
