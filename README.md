@@ -1,10 +1,6 @@
 # Mom-Bot
 Are you looking for a funny, entertaining, and easy to host bot? Well you found them. Mom bot is one of the best interactive bots for Discord. Dveloped by one developer. made in Discord JS version 11.4.2 Just follow the instructions provided underneath!
 
-### Try it Out!
-• These bots are currently under development and may not be available 24/7. Feel free to invite one to your server to explore its functionalities. If the bot doesn't suit your needs, you can easily remove it by clicking on the bot's profile picture and selecting "Kick."
-Invite Here at https://discord.com/api/oauth2/authorize?client_id=1141077636479713421&permissions=412317215808&scope=bot
-
 # Getting Started!
 
 ### Dependencies.
@@ -20,6 +16,10 @@ And follow the steps to make a bot.
 
 # Authors
 * https://github.com/Eniti-Codes
+
+# Try it Out!
+• These bots are currently under development and may not be available 24/7. Feel free to invite one to your server to explore its functionalities. If the bot doesn't suit your needs, you can easily remove it by clicking on the bot's profile picture and selecting "Kick."
+Invite Here at https://discord.com/api/oauth2/authorize?client_id=1141077636479713421&permissions=412317215808&scope=bot
 
 # Additional Notes
 * You'll need the "Manage Server" permission to add Mom-Bot to your Discord server.
